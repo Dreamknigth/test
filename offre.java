@@ -9,6 +9,9 @@ public class offre {
 		this.descriptif = l;
 		this.id = s;
 		evzzvezecc
+		
+		
+		poulet cuit fraise tagada
 	}
 
 }
